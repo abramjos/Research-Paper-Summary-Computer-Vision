@@ -49,3 +49,59 @@ Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction.pd
 Unsupervised Video Interpolation Using Cycle Consistency.pdf
 	paper : https://openaccess.thecvf.com/content_ICCV_2019/papers/Reda_Unsupervised_Video_Interpolation_Using_Cycle_Consistency_ICCV_2019_paper.pdf
 
+A UNIFIED THEORY OF EARLY VISUAL?REPRESENTATIONS FROM RETINA TO?CORTEX THROUGH ANATOMICALLY?CONSTRAINED DEEP CNNS.pdf
+	paper : https://arxiv.org/abs/1901.00945
+
+Confidence Calibration for Convolutional Neural?Networks Using Structured Dropout.pdf
+	paper : https://arxiv.org/abs/1906.09551
+
+Generalized Cross Entropy Loss for Training Deep?Neural Networks with Noisy Labels.pdf
+	paper : https://papers.nips.cc/paper/2018/file/f2925f97bc13ad2852a7a551802feea0-Paper.pdf
+
+Generating High Fidelity Images with Sub-scale Pixel?Networks and Multidimensional Up-scaling.pdf
+	paper : https://arxiv.org/abs/1812.01608
+
+How does Batch Normalization Help Optimization?.pdf
+	paper : https://arxiv.org/pdf/1805.11604.pdf
+
+Interpretable Explanations of Black Boxes by?Meaningful Perturbation.pdf
+	paper : http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/fong17interpretable.pdf
+
+Interpretable to whom? A role-based model for?analyzing interpretable Machine Learning systems.pdf
+	paper : https://arxiv.org/pdf/1806.07552.pdf
+
+Learning Robust representations by projecting?superficial statistics out.pdf
+	paper : https://openreview.net/forum?id=rJEjjoR9K7
+
+META-LEARNING UPDATE RULES FOR?UNSUPERVISED REPRESENTATION LEARNING.pdf
+	paper : https://arxiv.org/abs/1804.00222
+
+Mind the Gap: A Generative Approach to?Interpretable Feature Selection and Extraction.pdf
+	paper : https://beenkim.github.io/papers/BKim2015NIPS.pdf
+
+Norm matters: efficient and accurate normalization?schemes in deep networks.pdf
+	paper : https://arxiv.org/abs/1803.01814
+
+PAY LESS ATTENTION WITH LIGHTWEIGHT?AND DYNAMIC CONVOLUTIONS.pdf
+	paper : https://openreview.net/pdf?id=SkVhlh09tX
+
+RISE: Randomized Input Sampling for Explanation?of Black-box Models.pdf
+	paper : https://arxiv.org/pdf/1806.07421.pdf
+
+SATNet: Bridging Deep Learning and Logical?Reasoning using a Differentiable Satisfiability Solver.pdf
+	paper : https://arxiv.org/pdf/1905.12149.pdf
+
+THE LOTTERY TICKET HYPOTHESIS: FINDING?SPARSE, TRAINABLE NEURAL NETWORKS.pdf
+	paper : https://arxiv.org/abs/1803.03635
+
+THE NEURO-SYMBOLIC CONCEPT LEARNER:?INTERPRETING SCENES, WORDS, AND?SENTENCES FROM NATURAL SUPERVISION.pdf
+	paper : https://arxiv.org/abs/1904.12584
+
+Towards Understanding Learning Representations:?To What Extent Do Different Neural Networks Learn?the Same Representation.pdf
+	paper : https://arxiv.org/pdf/1810.11750.pdf
+
+Transferring Knowledge across Learning Processes.pdf
+	paper : https://openreview.net/pdf?id=HygBZnRctX
+
+Understanding and Utilizing Deep Neural Networks?Trained with Noisy Labels.pdf
+	paper : https://arxiv.org/abs/1905.05040
